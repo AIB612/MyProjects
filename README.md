@@ -37,19 +37,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | React, TypeScript, Vue.js, Vite, Tailwind |
-| **Backend** | Python, FastAPI, Node.js |
-| **AI** | Azure OpenAI, DeepSeek, Semantic Kernel |
-| **Database** | PostgreSQL, pgvector |
-| **Cloud** | Azure, Cloudflare, Render |
-| **DevOps** | Docker, GitHub Actions, Terraform |
-
----
-
 ## 📞 Contact
 
 - **GitHub**: https://github.com/AIB612
