@@ -11,6 +11,7 @@
 | Dropking | E-commerce / Dropshipping | 🟢 Live | [dropking.ch](https://dropking.ch/) | One-click global selling, auto-monitoring sourcing, 100+ AI tools, logistics solutions |
 | Shopimage | E-commerce | 🟡 Under Review | [shopimage.dropking.ch](https://shopimage.dropking.ch) | Batch image compression, smart cropping, background removal, Shopify integration |
 | Malim | Automotive / EV | 🟡 In Development | [malim.online](https://www.malim.online/) | EV battery health analysis, SoH calculation, Battery Passport, ML prediction |
+| RAG Children | Education / Kids | 🟡 In Development | Private | AI-powered children's learning assistant, interactive Q&A, safe content |
 | LaunchPad AI Bot | Productivity | 🟢 Running | Private | Daily tech digest (CN/DE), AI chat, offline queue, todo management |
 
 ### Source Code
@@ -20,6 +21,7 @@
 | Dropking | https://github.com/AIB612/dropking |
 | Shopimage | https://github.com/AIB612/Shopimage |
 | Malim | https://github.com/AIB612/malim |
+| RAG Children | https://github.com/AIB612/RAG-Chilren |
 | LaunchPad AI Bot | https://github.com/AIB612/launchpad-ai |
 
 ---
