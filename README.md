@@ -9,7 +9,7 @@
 | Project | Industry | Status | Tech Stack | Website | Features |
 |---------|----------|--------|------------|---------|----------|
 | Shopimage | E-commerce | 🟡 Under Review | React, Node.js, Sharp | [shopimage.dropking.ch](https://shopimage.dropking.ch) | Batch image compression, smart cropping, background removal, Shopify integration |
-| Malim | Automotive / EV | 🟡 In Development | FastAPI, Vue.js, PostgreSQL | [malimonline.com](https://malimonline.com) | EV battery health analysis, SoH calculation, Battery Passport, ML prediction |
+| Malim | Automotive / EV | 🟡 In Development | FastAPI, Vue.js, PostgreSQL | [malim.online](https://www.malim.online/) | EV battery health analysis, SoH calculation, Battery Passport, ML prediction |
 | LaunchPad AI Bot | Productivity | 🟢 Running | Python, Telegram, DeepSeek | Private | Daily tech digest (CN/DE), AI chat, offline queue, todo management |
 
 ### Source Code
