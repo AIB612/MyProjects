@@ -1,175 +1,127 @@
 # 🚀 My Projects
 
-> SherryAGI 项目总览 | Project Portfolio
+> SherryAGI Project Portfolio
 
 ---
 
-## 📊 项目状态总览
+## 📊 Project Overview
 
-| 项目 | 行业 | 状态 | 技术栈 |
-|------|------|------|--------|
-| [Shopimage](#shopimage) | 电商 | 🟡 审核中 | React, Node.js, Sharp |
-| [SwissAzureAI](#swissazureai) | 企业IT | 🟢 已上线 | Azure, Bicep, Python |
-| [DigitalTransformationAI](#digitaltransformationai) | 教育/学习 | 🟢 已上线 | Python, Jupyter |
-| [LaunchPad AI Bot](#launchpad-ai-bot) | 个人效率 | 🟢 运行中 | Python, Telegram |
-| [Pet Translator](#pet-translator) | 娱乐 | 🟡 待部署 | React, FastAPI |
+| Project | Industry | Status | Tech Stack | Website | Features |
+|---------|----------|--------|------------|---------|----------|
+| [Shopimage](#-shopimage) | E-commerce | 🟡 Under Review | React, Node.js, Sharp | [shopimage.dropking.ch](https://shopimage.dropking.ch) | Batch image compression, smart cropping, background removal, Shopify integration |
+| [Malim](#-malim) | Automotive / EV | 🟡 In Development | FastAPI, Vue.js, PostgreSQL | [GitHub](https://github.com/AIB612/Malim) | EV battery health analysis, SoH calculation, Battery Passport, ML prediction |
+| [LaunchPad AI Bot](#-launchpad-ai-bot) | Productivity | 🟢 Running | Python, Telegram, DeepSeek | Private | Daily tech digest (CN/DE), AI chat, offline queue, todo management |
 
 ---
 
 ## 🛒 Shopimage
 
-**图片优化工具 - 电商卖家必备**
+**Image Optimization Tool for E-commerce Sellers**
 
-| 属性 | 值 |
-|------|-----|
-| **行业** | 电商 (E-commerce) |
-| **状态** | 🟡 审核中 (Chrome 扩展 + Shopify App) |
-| **网站** | https://shopimage.dropking.ch |
+| Attribute | Value |
+|-----------|-------|
+| **Industry** | E-commerce |
+| **Status** | 🟡 Under Review (Chrome Extension + Shopify App) |
+| **Website** | https://shopimage.dropking.ch |
 | **GitHub** | Private |
-| **技术栈** | React, TypeScript, Node.js, Sharp, Cloudflare R2 |
+| **Tech Stack** | React, TypeScript, Node.js, Sharp, Cloudflare R2 |
 
-### 功能
-- ✅ 批量图片压缩 (WebP/AVIF)
-- ✅ 智能裁剪
-- ✅ 背景移除
-- ✅ Shopify 集成
-- ✅ 付费订阅 (Stripe)
+### Features
+- ✅ Batch image compression (WebP/AVIF)
+- ✅ Smart cropping
+- ✅ Background removal
+- ✅ Shopify integration
+- ✅ Subscription billing (Stripe)
 
-### 下一步
-- [ ] Chrome 扩展审核通过
-- [ ] Shopify App 审核通过
-- [ ] 添加 AI 图片增强
-
----
-
-## 🇨🇭 SwissAzureAI
-
-**瑞士合规企业 AI 解决方案**
-
-| 属性 | 值 |
-|------|-----|
-| **行业** | 企业IT / 数字化转型 |
-| **状态** | 🟢 已上线 |
-| **GitHub** | https://github.com/AIB612/SwissAzureAI |
-| **技术栈** | Azure, Bicep, Terraform, Python, PowerShell |
-
-### 功能
-- ✅ Azure RAG 部署 (Switzerland North)
-- ✅ pgvector 私有部署方案
-- ✅ FADP/FINMA 合规检查清单
-- ✅ M365 数字化转型完整方案
-- ✅ CI/CD 自动化 (GitHub Actions, Jenkins, Ansible)
-
-### 下一步
-- [ ] 添加 Kubernetes (AKS) 部署方案
-- [ ] 多云支持 (AWS/GCP)
+### Next Steps
+- [ ] Chrome Extension approval
+- [ ] Shopify App approval
+- [ ] Add AI image enhancement
 
 ---
 
-## 📚 DigitalTransformationAI
+## 🔋 Malim
 
-**数字化转型学习资料**
+**EV Battery Health Analysis Platform**
 
-| 属性 | 值 |
-|------|-----|
-| **行业** | 教育 / 学习 |
-| **状态** | 🟢 已上线 |
-| **GitHub** | https://github.com/AIB612/DigitalTransformationAI |
-| **技术栈** | Python, Jupyter, Pandas, Scikit-learn |
+| Attribute | Value |
+|-----------|-------|
+| **Industry** | Automotive / Electric Vehicles |
+| **Status** | 🟡 In Development |
+| **Website** | [GitHub](https://github.com/AIB612/Malim) |
+| **GitHub** | https://github.com/AIB612/Malim |
+| **Tech Stack** | FastAPI, Vue.js, PostgreSQL, pgvector, Azure |
 
-### 模块
-- ✅ 01-supply-chain: 供应链优化
-- ✅ 02-order-analysis: 订单分析
-- ✅ 03-customer-analytics: 客户分析 (RFM, CLV, BG/NBD)
-- ✅ 04-knowledge-management: 知识管理 (RAG)
+### Features
+- ✅ State of Health (SoH) calculation
+- ✅ Battery degradation analysis
+- ✅ Battery Passport certification
+- ✅ ML-based lifespan prediction
+- 🔄 RAG Chat assistant (in progress)
 
-### 下一步
-- [ ] 添加更多实战案例
-- [ ] 视频教程
+### Next Steps
+- [ ] Complete RAG chat integration
+- [ ] Tesla API integration
+- [ ] Deploy to production
 
 ---
 
 ## 🤖 LaunchPad AI Bot
 
-**Telegram 个人助手**
+**Telegram Personal Assistant**
 
-| 属性 | 值 |
-|------|-----|
-| **行业** | 个人效率 |
-| **状态** | 🟢 运行中 |
+| Attribute | Value |
+|-----------|-------|
+| **Industry** | Productivity |
+| **Status** | 🟢 Running |
 | **Bot** | @LaunchGAIbot |
 | **GitHub** | Private |
-| **技术栈** | Python, Telegram Bot API, DeepSeek |
+| **Tech Stack** | Python, Telegram Bot API, DeepSeek |
 
-### 功能
-- ✅ 每日科技日报 (中德双语, 8:30 推送)
-- ✅ AI 对话 (DeepSeek)
-- ✅ 离线队列 + 自动补发
-- 🔄 Todo 任务管理 (开发中)
+### Features
+- ✅ Daily tech digest (Chinese/German bilingual, 8:30 push)
+- ✅ AI conversation (DeepSeek)
+- ✅ Offline queue + auto-retry
+- 🔄 Todo task management (in progress)
 
-### 下一步
-- [ ] 完成 Todo 功能集成
-- [ ] 添加健康助手
-- [ ] 添加复盘助手
-
----
-
-## 🐾 Pet Translator
-
-**宠物语言翻译器**
-
-| 属性 | 值 |
-|------|-----|
-| **行业** | 娱乐 |
-| **状态** | 🟡 待部署 |
-| **本地** | http://localhost:5173 |
-| **GitHub** | Private |
-| **技术栈** | React, Vite, FastAPI, AI |
-
-### 功能
-- ✅ 上传宠物照片/视频
-- ✅ AI 分析宠物表情
-- ✅ 生成"翻译"文字
-
-### 下一步
-- [ ] 部署到 Render/Vercel
-- [ ] 添加语音输出
+### Next Steps
+- [ ] Complete Todo integration
+- [ ] Add health assistant
+- [ ] Add review assistant
 
 ---
 
-## 📈 项目时间线
+## 📈 Timeline
 
 ```
 2024
-├── Q4: Shopimage 开发
+├── Q4: Shopimage development
 │
 2025
-├── Q1: LaunchPad AI Bot 上线
-├── Q1: DigitalTransformationAI 完成
-├── Q1: SwissAzureAI 完成
-├── Q2: Pet Translator 部署 (计划)
-└── Q2: Shopimage 审核通过 (计划)
+├── Q1: LaunchPad AI Bot launched
+├── Q1: Malim development started
+├── Q2: Shopimage approval (planned)
+└── Q2: Malim production deployment (planned)
 ```
 
 ---
 
-## 🛠️ 技术栈总览
+## 🛠️ Tech Stack Overview
 
-| 类别 | 技术 |
-|------|------|
-| **前端** | React, TypeScript, Vite, Tailwind |
-| **后端** | Python, FastAPI, Node.js |
+| Category | Technologies |
+|----------|--------------|
+| **Frontend** | React, TypeScript, Vue.js, Vite, Tailwind |
+| **Backend** | Python, FastAPI, Node.js |
 | **AI** | Azure OpenAI, DeepSeek, Semantic Kernel |
-| **数据库** | PostgreSQL, pgvector, Dataverse |
-| **云** | Azure, Cloudflare, Render |
+| **Database** | PostgreSQL, pgvector |
+| **Cloud** | Azure, Cloudflare, Render |
 | **DevOps** | Docker, GitHub Actions, Terraform |
 
 ---
 
-## 📞 联系
+## 📞 Contact
 
 - **GitHub**: https://github.com/AIB612
-- **Projects**: This repo
 
 ---
 
