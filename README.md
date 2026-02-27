@@ -16,7 +16,9 @@
 
 | Project | Repository |
 |---------|------------|
+| Shopimage | https://github.com/AIB612/Shopimage |
 | Malim | https://github.com/AIB612/Malim |
+| LaunchPad AI Bot | https://github.com/AIB612/launchpad-ai |
 
 ---
 
