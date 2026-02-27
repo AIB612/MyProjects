@@ -17,9 +17,9 @@
 
 | Project | Repository |
 |---------|------------|
-| Dropking | Private |
+| Dropking | https://github.com/AIB612/dropking |
 | Shopimage | https://github.com/AIB612/Shopimage |
-| Malim | https://github.com/AIB612/Malim |
+| Malim | https://github.com/AIB612/malim |
 | LaunchPad AI Bot | https://github.com/AIB612/launchpad-ai |
 
 ---
